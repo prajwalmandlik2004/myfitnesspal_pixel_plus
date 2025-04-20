@@ -1,6 +1,6 @@
 # 🥗 MyFitnessPal Clone – Pixel Plus Hackathon Project
 
-🔗 **Live Demo**: [https://your-deployed-site-link.com](https://your-deployed-site-link.com)
+## 🔗 **Live Demo**: https://myfitnesspal-pixel.netlify.app/
 
 ---
 
